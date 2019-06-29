@@ -8,4 +8,10 @@ Where possible, I try to use idiomatic Rust. Since I'm learning, that won't alwa
   - [Official Rust docs](https://doc.rust-lang.org/std/index.html)
   - [Crate docs](https://docs.rs/)
 
+### Some neat packages I use
+  - chrono
+  - rprompt
+  - promptly
+  - dialoguer
+
 > I use the [Atom](https://atom.io/) editor with the [ide-rust](https://atom.io/packages/ide-rust) package. I use the nightly toolchain to stay on top of new features while also adding support for newer packages.
